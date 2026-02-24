@@ -32,10 +32,11 @@ Mongolia 🇲🇳
 - UX/UI + frontend projects
 - Practical automations for real life/work
 
-## 📫 Contact
-- Website: [monameister.com](https://monameister.com)
-- GitHub: [@monameister](https://github.com/monameister)
-
+## 📫 Contact## 📫 Contact
+- GitHub:     https://github.com/monameister
+- Telegram:   https://t.me/monameister
+- Email:      monameister@protonmail.com
+  
 ---
 
 <p align="center">
